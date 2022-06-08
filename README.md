@@ -7,12 +7,14 @@
 ## Ürün İsmi
 - Hesap Makinesi
 ## Ürün Açıklaması
--Hesap Makinesi ve Vize, Final notu girerek puan ve harf notu öğrenme
+- Hesap Makinesi ve Vize, Final notu girerek puan ve harf notu öğrenme
 ## Ürün Özellikleri
--Hesap Makinesi olarak gerekli matematik hesaplarının yapılması
+- Hesap Makinesi olarak gerekli matematik hesaplarının yapılması
 
--Üniversite Öğrencileri için Vize ve Final notu girerek puan ve harf notu öğrenme
+- Üniversite Öğrencileri için Vize ve Final notu girerek puan ve harf notu öğrenme
 ## Hedef Kitle
--Cep Telefonu Olan Kullanıcılar Ve Üniversite Öğrencileri
+- Cep Telefonu Olan Kullanıcılar Ve Üniversite Öğrencileri
 
 # Sprint 1
+- Ürün Durumu: Ekran görüntüleri:
+-  ![alt text](https://drive.google.com/file/d/1FeYOEbH9pYlamBG1iUXwgv_gohvwCgoJ/view?usp=sharing)
